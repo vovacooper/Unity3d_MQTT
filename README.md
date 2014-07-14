@@ -1,4 +1,4 @@
-Unity3d_MQTT
+Unity3d MQTT
 ============
 [MQTT](http://mqtt.org/) is a machine-to-machine (M2M)/"Internet of Things" connectivity protocol.
 
